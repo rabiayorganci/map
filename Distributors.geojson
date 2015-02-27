@@ -139,6 +139,22 @@
           43.474765
         ]
       }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "Organization": "İnrobotek",
+        "Role": "Distributor",
+        "Website": "http://www.inrobotek.com.tr",
+        "Product": "Turtlebot 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.099610,
+          40.972012
+        ]
+      }
     }
   ]
 }
